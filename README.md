@@ -3,6 +3,7 @@ Eamonn
 -	Create business plan outline
 -	Write intro paragraph for app
 -	Write ‘About Us’ page
+
 Phil
 -	Design logo
 -	Design app land page
